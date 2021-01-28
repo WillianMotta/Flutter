@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191660996762",
+    "project_id": "loja-flutter-1947a",
+    "storage_bucket": "loja-flutter-1947a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191660996762:android:abc5ddb5de516fb5d14723",
+        "android_client_info": {
+          "package_name": "com.braga.loja_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191660996762-ut0jdqk0r66fsvn9lfvtkq2ab6br98pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRWOqfjK5k5lCw3iGaroc8h2EtDQKJelk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191660996762-ut0jdqk0r66fsvn9lfvtkq2ab6br98pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
